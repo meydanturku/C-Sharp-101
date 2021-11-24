@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.exe
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.deps.json
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.runtimeconfig.json
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.runtimeconfig.dev.json
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.dll
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\ref\consoleprogrammingtester.dll
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\bin\Debug\net5.0\consoleprogrammingtester.pdb
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.AssemblyInfo.cs
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.dll
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\ref\consoleprogrammingtester.dll
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.pdb
+C:\Users\User\Desktop\csharpdeneme\consoleprogrammingtester\obj\Debug\net5.0\consoleprogrammingtester.genruntimeconfig.cache
