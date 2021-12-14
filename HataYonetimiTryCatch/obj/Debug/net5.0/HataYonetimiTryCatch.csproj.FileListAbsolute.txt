@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.exe
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.deps.json
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.runtimeconfig.json
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.runtimeconfig.dev.json
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.dll
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\ref\HataYonetimiTryCatch.dll
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\bin\Debug\net5.0\HataYonetimiTryCatch.pdb
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.AssemblyInfo.cs
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.dll
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\ref\HataYonetimiTryCatch.dll
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.pdb
+C:\Users\User\Desktop\csharpdeneme\HataYonetimiTryCatch\obj\Debug\net5.0\HataYonetimiTryCatch.genruntimeconfig.cache
